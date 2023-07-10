@@ -1,0 +1,6 @@
+dump interface config all
+dump overview
+inspect fib all
+dump vpn summary
+dump interface status all
+inspect flow brief
